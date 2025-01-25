@@ -30,7 +30,7 @@ Welcome to the **Graduate School Vault**! This vault is designed to support anyo
 1. **Install Obsidian**: If you don’t have it yet, download and install [Obsidian](https://obsidian.md/).
 2. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/graduate-school-management-vault.git
+   git clone https://github.com/clairechabot/Graduate_School_Vault.git
 
 ### Open the Vault
 
