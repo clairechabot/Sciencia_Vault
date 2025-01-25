@@ -31,11 +31,12 @@ Welcome to the **Graduate School Vault**! This vault is designed to support anyo
 2. **Clone the Repository**:
    ```bash
    git clone https://github.com/yourusername/graduate-school-management-vault.git
-   # Open the Vault
 
-3. Launch Obsidian.  
-4. Select **"Open folder as vault."**  
-5. Choose the cloned repository.  
+# Open the Vault
+
+1. Launch Obsidian.  
+2. Select **"Open folder as vault."**  
+3. Choose the cloned repository.  
 
 ---
 
