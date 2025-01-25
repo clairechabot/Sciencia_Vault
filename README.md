@@ -32,7 +32,7 @@ Welcome to the **Graduate School Vault**! This vault is designed to support anyo
    ```bash
    git clone https://github.com/yourusername/graduate-school-management-vault.git
 
-# Open the Vault
+### Open the Vault
 
 1. Launch Obsidian.  
 2. Select **"Open folder as vault."**  
