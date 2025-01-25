@@ -1,4 +1,4 @@
-# Obsidian Vault: Graduate School Vault
+# Obsidian Graduate School Vault
 
 Welcome to the **Graduate School Vault**! This vault is designed to support anyone navigating the challenges of graduate school in the life sciences, whether you're pursuing a master's degree, a Ph.D., or managing academic projects. With its structured layout and focus on efficient note-taking and project organization, this vault will help you stay on top of your coursework, research, and professional goals.
 
