@@ -13,7 +13,6 @@ Welcome to the **Graduate School Vault**! This vault is designed to support anyo
 - **Reference Notes**: Store and manage citations, references, or external resources that you frequently use in your work.
 - **Files**: A repository for images, PDFs, and other attachments linked within your notes.
 - **Templates**: Ready-to-use templates to keep your notes consistent and save time when creating new entries.
-- **smart-chats**: Optional folder for collaborative or plugin-related notes to enhance functionality.
 
 ### Key File
 
@@ -40,7 +39,89 @@ Welcome to the **Graduate School Vault**! This vault is designed to support anyo
 
 ---
 
-# Recommended Resources
+# Plugins
+
+This is a list of plugins that I've integrated into the vault's structure. Some are more for aesthetics, and others are essential. Feel free to customize for your own personal use! 
+
+- [Admonition](https://github.com/valentine195/obsidian-admonition)   
+
+- [Banners](https://github.com/noatpad/obsidian-banners)  
+  What I use to make the MOC's and homepage more aesthetically pleasing. If you don't like the banners, take out this plugin and delete them. 
+
+- [Callout Manager](https://github.com/NocturnalBadger/obsidian-callout-manager)   
+
+- [Completed Task Display](https://github.com/vrtmrz/obsidian-completed-task-display): Essential for the vault to function. Also very satisfying. 
+
+- [Copilot](https://github.com/aidenlx/obsidian-copilot): An AI Copilot in Obsidian. This is not essential, but if you build upon your vault with the zettelkasten method and your project notes, this can help with parsing information together that you've gathered over time. You do have to pay for an API key.  
+
+- [Dataview](https://github.com/blacksmithgu/obsidian-dataview): Essential for the vault to function. 
+
+- [Emoji Toolbar](https://github.com/alx-plugins/obsidian-emoji-toolbar): Quickly search for and insert emojis into your notes.  
+
+- [Highlightr](https://github.com/DannyHavenith/obsidian-highlightr)  
+
+- [Homepage](https://github.com/zhimsel/obsidian-homepage): Open a specified note, canvas, or workspace on startup, or set it for quick access later. This is used for the "Ph.D. Dashboard". 
+
+- [Iconize](https://github.com/chetachiezikeuzor/obsidian-iconize)  
+
+- [Janitor](https://github.com/tgrosinger/obsidian-janitor): Performs cleanup tasks on the Obsidian vault. Really helpful to know what orphan notes you might have or junk that's floating about. 
+
+- [JS Engine](https://github.com/ryanjamurphy/obsidian-js-engine): Run JavaScript from within your notes.  
+
+- [Linter](https://github.com/platers/obsidian-linter): Formats and styles your notes, including YAML tags, aliases, arrays, and metadata. I have some set-up in this vault already, but feel free to customize it. 
+
+- [Meta Bind](https://github.com/SkepticMystic/meta-bind): Make your notes interactive with inline input fields, metadata displays, and buttons.  
+
+- [Minimal Theme Settings](https://github.com/kepano/obsidian-minimal-settings)  
+
+- [Multi Properties](https://github.com/SkepticMystic/multi-properties)  
+
+- [Natural Language Dates](https://github.com/argenos/nldates-obsidian): Create date-links based on natural language. 
+
+- [Obsidian Columns](https://github.com/noatpad/obsidian-columns)  
+
+
+---
+
+# Hotkeys
+Useful shortcuts that are already integrated with the vaults structure and plugins. Customize them as you'd like! I've included a list here of the ones I find most useful (and have on a sticky note on my desk). 
+
+- Add file property: `⌘ ;`
+- Close window: `⌘ ⇧ W`
+- Open command palette: `⌘ P`
+- Toggle Completed Task View: `⌘ C`
+- Create new note: `⌘ N`
+- Create note to the right: `⌘ ⇧ N`
+- Open today's daily note: `⌘ D`
+- Open emoji picker: `⌘ J`
+- Open graph view: `⌘ G`
+- Open Highlightr: `⌘ H`
+- Open homepage: `⌘ Q`
+- Insert Markdown link: `⌘ K`
+- Lint the current file: `⌘ ⌥ L`
+- Open current tab in new window: `⌘ W`
+- PodNotes: Capture Timestamp: `⌘ L`
+- Search current file: `⌘ ⌥ F`
+- Create or edit task: `⌃ T`
+- Templater --> Replace templates in the active file: `⌘ ⌥ R`
+- Insert template: `⌘ T`
+- TimeStamper: Insert preconfigured date stamp: `⌘ ⇧ O`
+- TimeStamper: Insert preconfigured time stamp: `⌘ ⇧ P`
+- Toggle bold: `⌘ B`
+- Toggle italic: `⌘ I`
+- Unique note creator: Create new unique note: `⌘ U` (_Important for creating Reference Notes._)
+
+
+---
+
+# Recommended Apps
+
+- **[Zotero](https://www.zotero.org/)**  
+  Zotero is a powerful reference management tool that can be integrated with Zettelkasten notes to streamline your workflow. Artem’s videos provide excellent guidance on how to use Zotero effectively alongside Obsidian and the Zettelkasten method. Download Zotero [here](https://www.zotero.org/).
+
+---
+
+# Resources & References
 
 To better understand and incorporate the Zettelkasten method into your workflow, check out these helpful videos by [Artem Kirsanov](https://www.youtube.com/@ArtemKirsanov):
 
@@ -61,25 +142,6 @@ The **"People"** and **"Meetings"** templates in this vault were adapted directl
 
 - **[Meeting Note Template](https://www.danbergblog.com/your-link-here)**  
   A helpful structure for documenting meetings, adapted here as the "Meetings" template.
- 
-
----
-
-# Recommended Plugins
-
-To make the most of this vault, consider adding these plugins:
-
-- **Calendar**: Add a calendar view for better time management.  
-- **Dataview**: Use dynamic queries to organize and display your notes in new ways.  
-- **Quick Add**: Streamline task and note creation.  
-- **Kanban**: Visualize your tasks and projects with Kanban boards.  
-
----
-
-# Recommended Apps
-
-- **[Zotero](https://www.zotero.org/)**  
-  Zotero is a powerful reference management tool that can be integrated with Zettelkasten notes to streamline your workflow. Artem’s videos provide excellent guidance on how to use Zotero effectively alongside Obsidian and the Zettelkasten method. Download Zotero [here](https://www.zotero.org/).
   
 ---
 
