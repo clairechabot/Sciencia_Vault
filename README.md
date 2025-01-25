@@ -146,6 +146,12 @@ The **"People"** and **"Meetings"** templates in this vault were adapted directl
   
 ---
 
+The ELN aspect of this vault was inspired by a post on the Obsidian forum by **"drosophila"**:
+
+**[Laboratory Notebook + Integrated Task Management System for Bench Scientists]([https://forum.obsidian.md/](https://forum.obsidian.md/t/laboratory-notebook-integrated-task-management-system-for-bench-scientists/45338))**:  
+
+---
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE). See the `LICENSE` file for details.
