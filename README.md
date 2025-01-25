@@ -58,9 +58,9 @@ To make the most of this vault, consider adding these plugins:
 
 ---
 
-# License
+## License
 
-[Specify your license here, e.g., MIT License.]
+This project is licensed under the [MIT License](LICENSE). See the `LICENSE` file for details.
 
 ---
 
