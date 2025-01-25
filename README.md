@@ -44,43 +44,42 @@ Welcome to the **Graduate School Vault**! This vault is designed to support anyo
 
 This is a list of plugins that I've integrated into the vault's structure. Some are more for aesthetics, and others are essential. Feel free to customize for your own personal use! 
 
-- [Admonition](https://github.com/valentine195/obsidian-admonition)   
+- [Admonition](https://github.com/javalent/admonitions)   
 
-- [Banners](https://github.com/noatpad/obsidian-banners)  
+- [Banners](https://github.com/noatpad/obsidian-banners)
   What I use to make the MOC's and homepage more aesthetically pleasing. If you don't like the banners, take out this plugin and delete them. 
 
-- [Callout Manager](https://github.com/NocturnalBadger/obsidian-callout-manager)   
+- [Callout Manager](https://github.com/eth-p/obsidian-callout-manager)  
 
-- [Completed Task Display](https://github.com/vrtmrz/obsidian-completed-task-display): Essential for the vault to function. Also very satisfying. 
+- [Completed Task Display](https://github.com/heliostatic/completed-task-display): Essential for the vault to function. Also very satisfying. 
 
-- [Copilot](https://github.com/aidenlx/obsidian-copilot): An AI Copilot in Obsidian. This is not essential, but if you build upon your vault with the zettelkasten method and your project notes, this can help with parsing information together that you've gathered over time. You do have to pay for an API key.  
+- [Copilot](https://github.com/logancyang/obsidian-copilot): An AI Copilot in Obsidian. This is not essential, but if you build upon your vault with the zettelkasten method and your project notes, this can help with parsing information together that you've gathered over time. You do have to pay for an API key.  
 
 - [Dataview](https://github.com/blacksmithgu/obsidian-dataview): Essential for the vault to function. 
 
-- [Emoji Toolbar](https://github.com/alx-plugins/obsidian-emoji-toolbar): Quickly search for and insert emojis into your notes.  
+- [Emoji Toolbar](https://github.com/oliveryh/obsidian-emoji-toolbar): Quickly search for and insert emojis into your notes.  
 
-- [Highlightr](https://github.com/DannyHavenith/obsidian-highlightr)  
+- [Highlightr](https://github.com/chetachiezikeuzor/Highlightr-Plugin)  
 
-- [Homepage](https://github.com/zhimsel/obsidian-homepage): Open a specified note, canvas, or workspace on startup, or set it for quick access later. This is used for the "Ph.D. Dashboard". 
+- [Homepage](https://github.com/mirnovov/obsidian-homepage): Open a specified note, canvas, or workspace on startup, or set it for quick access later. This is used for the "Ph.D. Dashboard". 
 
-- [Iconize](https://github.com/chetachiezikeuzor/obsidian-iconize)  
+- [Iconize](https://github.com/FlorianWoelki/obsidian-iconize)
 
-- [Janitor](https://github.com/tgrosinger/obsidian-janitor): Performs cleanup tasks on the Obsidian vault. Really helpful to know what orphan notes you might have or junk that's floating about. 
-
-- [JS Engine](https://github.com/ryanjamurphy/obsidian-js-engine): Run JavaScript from within your notes.  
+- [Janitor](https://github.com/Canna71/obsidian-janitor): Performs cleanup tasks on the Obsidian vault. Really helpful to know what orphan notes you might have or junk that's floating about.   
 
 - [Linter](https://github.com/platers/obsidian-linter): Formats and styles your notes, including YAML tags, aliases, arrays, and metadata. I have some set-up in this vault already, but feel free to customize it. 
 
-- [Meta Bind](https://github.com/SkepticMystic/meta-bind): Make your notes interactive with inline input fields, metadata displays, and buttons.  
+- [Meta Bind](https://github.com/mProjectsCode/obsidian-meta-bind-plugin): Essential if you like the buttons. I like the buttons. 
 
-- [Minimal Theme Settings](https://github.com/kepano/obsidian-minimal-settings)  
+- [Minimal Theme Settings](https://github.com/kepano/obsidian-minimal-settings)
 
-- [Multi Properties](https://github.com/SkepticMystic/multi-properties)  
+- [Multi Properties](https://github.com/technohiker/obsidian-multi-properties) 
 
-- [Natural Language Dates](https://github.com/argenos/nldates-obsidian): Create date-links based on natural language. 
+- [Natural Language Dates](https://github.com/argenos/nldates-obsidian): Create date-links based on natural language. (i.e. write "today" or "next Friday" after you create a task and it will insert the correct date). 
 
-- [Obsidian Columns](https://github.com/noatpad/obsidian-columns)  
+- [Obsidian Columns](https://github.com/tnichols217/obsidian-columns)
 
+- FINISH ADDING PLUGINS HERE
 
 ---
 
@@ -148,7 +147,7 @@ The **"People"** and **"Meetings"** templates in this vault were adapted directl
 
 The ELN aspect of this vault was inspired by a post on the Obsidian forum by **"drosophila"**:
 
-**[Laboratory Notebook + Integrated Task Management System for Bench Scientists]([https://forum.obsidian.md/](https://forum.obsidian.md/t/laboratory-notebook-integrated-task-management-system-for-bench-scientists/45338))**:  
+[Laboratory Notebook + Integrated Task Management System for Bench Scientists](https://forum.obsidian.md/t/laboratory-notebook-integrated-task-management-system-for-bench-scientists/45338)  
 
 ---
 
