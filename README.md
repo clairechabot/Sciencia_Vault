@@ -40,10 +40,28 @@ Welcome to the **Graduate School Vault**! This vault is designed to support anyo
 
 ---
 
-# Customize for Your Needs
+# Recommended Resources
 
-- Update the Templates to align with your workflow.  
-- Adapt the Ph.D. Dashboard to reflect your goals and priorities.  
+To better understand and incorporate the Zettelkasten method into your workflow, check out these helpful videos by [Artem Kirsanov](https://www.youtube.com/@ArtemKirsanov):
+
+- **[My simple note-taking setup | Zettelkasten in Obsidian | Step-by-step guide](https://www.youtube.com/watch?v=your-link-here)**  
+  This video provides a clear introduction to the Zettelkasten method and its implementation in Obsidian.
+
+- **[Zettelkasten workflow for research papers | Zotero & Obsidian link](https://www.youtube.com/watch?v=your-link-here)**  
+  A deep dive into effective linking strategies that enhance the Zettelkasten method.
+
+Artem's other videos for insights on Obsidian are also very helpful!
+
+---
+
+The **"People"** and **"Meetings"** templates in this vault were adapted directly from Dan Berg's blog, which has been an invaluable resource:
+
+- **[People Note Template](https://www.danbergblog.com/your-link-here)**  
+  A guide for creating comprehensive notes about individuals, adapted here as the "People" template.
+
+- **[Meeting Note Template](https://www.danbergblog.com/your-link-here)**  
+  A helpful structure for documenting meetings, adapted here as the "Meetings" template.
+ 
 
 ---
 
@@ -58,6 +76,13 @@ To make the most of this vault, consider adding these plugins:
 
 ---
 
+# Recommended Apps
+
+- **[Zotero](https://www.zotero.org/)**  
+  Zotero is a powerful reference management tool that can be integrated with Zettelkasten notes to streamline your workflow. Artem’s videos provide excellent guidance on how to use Zotero effectively alongside Obsidian and the Zettelkasten method. Download Zotero [here](https://www.zotero.org/).
+  
+---
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE). See the `LICENSE` file for details.
@@ -69,4 +94,5 @@ This project is licensed under the [MIT License](LICENSE). See the `LICENSE` fil
 Your feedback and contributions are welcome! Feel free to fork the repository and submit pull requests for improvements or new features. Let’s make this an even better tool for grad students.
 
 If you have any questions or run into issues, please open an issue or reach out.  
-Thank you for checking out the Graduate School Management Vault, and good luck with your academic journey!
+
+Good luck out there y'all!
