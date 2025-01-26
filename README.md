@@ -81,7 +81,35 @@ This is a list of plugins that I've integrated into the vault's structure. Some 
 
 - [Obsidian Columns](https://github.com/tnichols217/obsidian-columns)
 
-- FINISH ADDING PLUGINS HERE
+- [Omnisearch](https://github.com/scambier/obsidian-omnisearch) : I believe this is essential to navigating your vault. At the moment, its better than the integrated obsidian vault search. I use it to look through my zettles and see what notes I have already and want to reference, or search through other documents in obsidian. 
+
+- [Pandoc](https://github.com/OliverBalfour/obsidian-pandoc): This plugin helps you convert your pages in Obsidian to DOCX, ePub, and PDF. I find the PDF useful for the protocols I put in my vault when I want to print them out for the lab or share with others. 
+
+- [PodNotes](https://github.com/chhoumann/PodNotes): This is useful if you like learning through podcasts and want to organise your notes from said podcasts into zettles later for referencing!
+
+-  [Pomodoro](https://github.com/tokuhirom/obsidian-pomodoro-plugin): The pomodoro method helped me when I was writing my MSc. thesis, and having it integrated in the vault when I need to lock-in and work is really nice! Not necessary, but I find it useful. You can find an explanation of the technique on the plugin page.
+
+-  [Quick Add](https://github.com/chhoumann/quickadd): Seemlessly add templates around your vault. 
+
+-  [Smart Connections](https://github.com/brianpetro/obsidian-smart-connections): AI plugin to chat with your notes. 
+
+-  [Style Settings](https://github.com/mgmeyers/obsidian-style-settings)
+
+-  [Supercharged Links](https://github.com/mdelobelle/obsidian_supercharged_links) 
+
+-  [Tasks](https://github.com/obsidian-tasks-group/obsidian-tasks): This one is necessary for how the vault is set-up, and also quite satisfying I might add.
+
+-  [Templater](https://github.com/SilentVoid13/Templater): Another necessary plugin, this helps you integrate and call-up the custom templates within the vault.
+
+-  [Time Stamper](https://github.com/Gru80/obsidian-timestamper): If you use this vault as a lab notebook, and need to stamp your experiment entries, then this plugin is very useful.
+
+-  [Tracker](https://github.com/pyrochlore/obsidian-tracker): I used this to add small summaries of information around the vault (i.e. work hours called up from the daily notes).
+
+-  [Widgets](https://github.com/rafaelveiga/obsidian-widgets): This was added for the clock on the homepage, as well as the quotes around the vault, but you can also add widgets for countdowns to deadlines on your homepage as well.
+
+-  [Wordy](https://github.com/nqthqn/obsidian-wordy): Really helpful for when you're trying to write your original zettles or other notes within the vault.
+
+-  [Zotero Integration](https://github.com/mgmeyers/obsidian-zotero-integration): Necessary if you want to easily integrate the zettlekasten system within your vault. See Artem Kirsanov's videos linked in the "Resources & Reference" section below to learn more. 
 
 ---
 
