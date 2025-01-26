@@ -1,27 +1,31 @@
 ---
-aliases: 
+aliases:
+  - pipette set
 tags:
   - lab_inventory
-Purchased: 2025-01-26
-Price: 
+Purchased: 2022-05-01
+Price: $1,200
 company:
-  - Company 2
-URL: 
-title: 2024-03-09 Test Item
-date_created: 2024-03-09-Saturday
-date_modified: 2024-06-13-Thursday
+  - Eppendorf
+URL: https://www.eppendorf.com/pipettes
+title: 2022-05-01 Adjustable Pipette Set
+date_created: 2022-05-01-Sunday
+date_modified: 2024-01-26-Friday
 projects:
-  - "[[Example Project MOC]]"
-summary: This is a test item.
+  - "[[RNA in Situ High-Throughput Protocol Development]]"
+summary: A set of adjustable pipettes for precise liquid handling (0.1–1000 µL).
 ---
 
- [[Lab Inventory MOC]] 
+[[Lab Inventory MOC]]
 
 ---
 
 # Specs
-- 
 
+- **Brand**: Eppendorf Research Plus
+- **Volumes**: 0.1–2.5 µL, 10–100 µL, 100–1000 µL
+- **Autoclavable**: Yes
+- **Accuracy**: ±0.1 µL at low volumes
 
 ---
 
@@ -29,9 +33,10 @@ summary: This is a test item.
 
 _List any other affiliated Inventory items here._
 
--  [[Test Item 1]]
+- [[Pipette Tips (0.1–1000 µL)]]
+- [[Cell Culture Media Preparation Protocol]]
 
-<br> 
+<br>
 
 _Any items that have the current item referenced in it will appear here._
 
@@ -44,9 +49,10 @@ SORT file.cday DESC
 
 ---
 
-# Notes
- -
+# Notes 
 
+- Serviced on 2023-12-20.
+- Use only with compatible pipette tips.
 
 ---
 # Affiliated 
@@ -76,4 +82,3 @@ FROM "100 Lab Notes/Protocols"
 WHERE contains(file.outlinks, [[]])
 SORT file.cday DESC
 ```
-
