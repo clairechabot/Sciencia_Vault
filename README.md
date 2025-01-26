@@ -223,7 +223,7 @@ This project is licensed under the [MIT License](LICENSE). See the `LICENSE` fil
 
 # Contributing
 
-Your feedback and contributions are welcome! Feel free to fork the repository and submit pull requests for improvements or new features. Let’s make this an even better tool for grad students.
+Your feedback and contributions are welcome! Feel free to fork the repository and submit pull requests for improvements or new features. Let’s make this an even better tool for scientists.
 
 If you have any questions or run into issues, please open an issue or reach out.  
 
