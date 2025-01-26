@@ -127,10 +127,10 @@ Useful shortcuts that are already integrated with the vaults structure and plugi
 
 To better understand and incorporate the Zettelkasten method into your workflow, check out these helpful videos by [Artem Kirsanov](https://www.youtube.com/@ArtemKirsanov):
 
-- **[My simple note-taking setup | Zettelkasten in Obsidian | Step-by-step guide](https://www.youtube.com/watch?v=your-link-here)**  
+- **[My simple note-taking setup | Zettelkasten in Obsidian | Step-by-step guide](https://youtu.be/E6ySG7xYgjY?feature=shared)**  
   This video provides a clear introduction to the Zettelkasten method and its implementation in Obsidian.
 
-- **[Zettelkasten workflow for research papers | Zotero & Obsidian link](https://www.youtube.com/watch?v=your-link-here)**  
+- **[Zettelkasten workflow for research papers | Zotero & Obsidian link](https://youtu.be/D9ivU_IKO6M?feature=shared)**  
   A deep dive into effective linking strategies that enhance the Zettelkasten method.
 
 Artem's other videos for insights on Obsidian are also very helpful!
