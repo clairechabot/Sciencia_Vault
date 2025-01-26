@@ -173,7 +173,7 @@ Useful shortcuts that are already integrated with the vaults structure and plugi
 - **TimeStamper: Insert preconfigured time stamp**: Command (⌘) / Ctrl + Shift + P
 - **Toggle bold**: Command (⌘) / Ctrl + B
 - **Toggle italic**: Command (⌘) / Ctrl + I
-- **Unique note creator**: Create new unique note: Command (⌘) / Ctrl + U (Important for creating Reference Notes.)
+- **Unique note creator: Create new unique note**: Command (⌘) / Ctrl + U (Important for creating Reference Notes.)
 
 
 ---
