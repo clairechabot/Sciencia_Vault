@@ -10,7 +10,7 @@ tags:
 collaborators:
 ---
 
-[[Ph.D. Dashboard]] 
+[[Dashboard]] 
 
 %% [[Project MOC Template]] %% 
 
