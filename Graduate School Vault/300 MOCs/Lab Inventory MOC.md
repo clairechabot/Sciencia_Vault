@@ -9,7 +9,7 @@ banner_y: 0.212
 ---
 
 
-[[Ph.D. Dashboard]]
+[[Dashboard]]
 %%**Template**: [[Physical Objects]]%%
 
 
