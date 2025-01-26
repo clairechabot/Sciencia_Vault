@@ -9,7 +9,7 @@ This is my first coding project, and it’s taken me about a year to create and 
 
 The core idea of this vault is that a little effort goes a long way. Every day, there are tasks to add, update, and plan—activities that are unavoidable in research. I wanted to create something that makes those day-to-day functions easier and more intuitive: a central hub where all the information is connected and accessible. The beauty of this system is that the more you build into it, the greater the payback.
 
-Using the Zettelkasten method, I’ve transformed how I research papers, remember references, and maintain a repository of sentences I can use—already in my own voice and fully cited. Over time, this has become a web of interconnected ideas, papers, and notes, allowing me to retrieve critical information quickly without hours of searching. By integrating this system with a GPT API key or even the free Smart Connections plugin, you can harness AI to uncover patterns and relationships within your work. This means:
+Using the Zettelkasten method, I’ve transformed how I research papers, remember references, and maintain a repository of sentences I can use—already in my own voice and fully cited. Over time, this has become a web of interconnected ideas, papers, and notes, allowing me to retrieve critical information quickly without hours of searching. By integrating this system with a GPT API key, or even the free Smart Connections plugin, you can harness AI to uncover patterns and relationships within your work. This means:
 
 - Finding connections between research paper notes (written in your own words and already cited).
 - Avoiding lost meeting notes.
