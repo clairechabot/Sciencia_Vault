@@ -3,7 +3,7 @@ aliases:
 tags: 
 cssclasses:
   - wide-page
-title: Ph.D. Dashboard
+title: Dashboard
 date_created: 2024-04-20-Saturday
 date_modified: 2024-06-20-Thursday
 banner:
