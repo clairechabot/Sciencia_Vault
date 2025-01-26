@@ -1,0 +1,65 @@
+{
+  "targetAttributes": [
+    "Icon",
+    "Symbol"
+  ],
+  "targetTags": true,
+  "getFromInlineField": true,
+  "enableTabHeader": true,
+  "activateSnippet": true,
+  "enableEditor": true,
+  "enableFileList": true,
+  "enableBacklinks": true,
+  "enableQuickSwitcher": true,
+  "enableSuggestor": true,
+  "selectors": [
+    {
+      "type": "attribute",
+      "name": "Icon",
+      "value": "animal_experiment",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "33e9-3ea9",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    },
+    {
+      "type": "attribute",
+      "name": "Icon",
+      "value": "bacteria_experiment",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "807c-8e48",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    },
+    {
+      "type": "attribute",
+      "name": "Icon",
+      "value": "cloning_experiment",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "2bf5-3bb1",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    },
+    {
+      "type": "attribute",
+      "name": "Icon",
+      "value": "important_date",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "932b-68e3",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    }
+  ]
+}

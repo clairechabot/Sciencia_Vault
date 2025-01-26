@@ -1,0 +1,10 @@
+{
+	"id": "obsidian-pomodoro-plugin",
+	"name": "Pomodoro Plugin",
+	"version": "0.0.2",
+	"minAppVersion": "0.9.12",
+	"description": "This is a simple pomodoro plugin for Obsidian.",
+	"author": "Tokuhiro Matsuno",
+	"authorUrl": "https://github.com/tokuhirom/",
+	"isDesktopOnly": false
+}
