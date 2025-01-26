@@ -10,7 +10,7 @@ banner_y: 0.212
 
 
 [[Dashboard]]
-%%**Template**: [[Physical Objects]]%%
+%%**Template**: [[Lab Inventory Template]]%%
 
 
 ---
