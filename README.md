@@ -51,7 +51,7 @@ In short, this vault can take the pressure off, make research a little more fun,
 
 ### Key File
 
-- **Ph.D. Dashboard.md**: Your command center for managing research tasks, tracking milestones, and staying organized throughout your graduate journey.
+- **Dashboard.md**: Your command center for managing research tasks, tracking milestones, and staying organized throughout your graduate journey.
 
 ## Basic Structure of the Vault 
 
