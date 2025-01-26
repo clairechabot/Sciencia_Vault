@@ -58,7 +58,7 @@ In short, this vault can take the pressure off, make research a little more fun,
 - **Zettelkasten Methodology**: Build a web of interconnected ideas to deepen your understanding and spark creativity.
 - **Buttons & Integrated Templates**: Save time and maintain consistency across all your notes.
 - **Maps of Content**: Navigate your vault effortlessly with thematic entry points.
-- **Tailored for Grad Students**: Stay on top of research, coursework, and professional development with purpose-built tools. 
+- **Tailored for Learning**: Stay on top of research, coursework, and professional development with purpose-built tools. 
 
 # Getting Started
 
