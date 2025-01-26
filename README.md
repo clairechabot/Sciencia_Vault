@@ -150,30 +150,30 @@ This is a list of plugins that I've integrated into the vault's structure. Some 
 # Hotkeys
 Useful shortcuts that are already integrated with the vaults structure and plugins. Customize them as you'd like! I've included a list here of the ones I find most useful (and have on a sticky note on my desk). 
 
-- Add file property: Command (⌘) / Ctrl + ;
-- Close window: Command (⌘) / Ctrl + Shift + W
-- Open command palette: Command (⌘) / Ctrl + P
-- Toggle Completed Task View: Command (⌘) / Ctrl + C
-- Create new note: Command (⌘) / Ctrl + N
-- Create note to the right: Command (⌘) / Ctrl + Shift + N
-- Open today's daily note: Command (⌘) / Ctrl + D
-- Open emoji picker: Command (⌘) / Ctrl + J
-- Open graph view: Command (⌘) / Ctrl + G
-- Open Highlightr: Command (⌘) / Ctrl + H
-- Open homepage: Command (⌘) / Ctrl + Q
-- Insert Markdown link: Command (⌘) / Ctrl + K
-- Lint the current file: Command (⌘) / Ctrl + Option (⌥) / Alt + L
-- Open current tab in new window: Command (⌘) / Ctrl + W
-- PodNotes: Capture Timestamp: Command (⌘) / Ctrl + L
-- Search current file: Command (⌘) / Ctrl + Option (⌥) / Alt + F
-- Create or edit task: Control (⌃) / Ctrl + T
-- Templater → Replace templates in the active file: Command (⌘) / Ctrl + Option (⌥) / Alt + R
-- Insert template: Command (⌘) / Ctrl + T
-- TimeStamper: Insert preconfigured date stamp: Command (⌘) / Ctrl + Shift + O
-- TimeStamper: Insert preconfigured time stamp: Command (⌘) / Ctrl + Shift + P
-- Toggle bold: Command (⌘) / Ctrl + B
-- Toggle italic: Command (⌘) / Ctrl + I
-- Unique note creator: Create new unique note: Command (⌘) / Ctrl + U (Important for creating Reference Notes.)
+- **Add file property**: Command (⌘) / Ctrl + ;
+- **Close window**: Command (⌘) / Ctrl + Shift + W
+- **Open command palette**: Command (⌘) / Ctrl + P
+- **Toggle Completed Task View**: Command (⌘) / Ctrl + C
+- **Create new note**: Command (⌘) / Ctrl + N
+- **Create note to the right**: Command (⌘) / Ctrl + Shift + N
+- **Open today's daily note**: Command (⌘) / Ctrl + D
+- **Open emoji picker**: Command (⌘) / Ctrl + J
+- **Open graph view**: Command (⌘) / Ctrl + G
+- **Open Highlightr**: Command (⌘) / Ctrl + H
+- **Open homepage**: Command (⌘) / Ctrl + Q
+- **Insert Markdown link**: Command (⌘) / Ctrl + K
+- **Lint the current file**: Command (⌘) / Ctrl + Option (⌥) / Alt + L
+- **Open current tab in new window**: Command (⌘) / Ctrl + W
+- **PodNotes: Capture Timestamp**: Command (⌘) / Ctrl + L
+- **Search current file**: Command (⌘) / Ctrl + Option (⌥) / Alt + F
+- **Create or edit task**: Control (⌃) / Ctrl + T
+- **Templater → Replace templates in the active file**: Command (⌘) / Ctrl + Option (⌥) / Alt + R
+- **Insert template**: Command (⌘) / Ctrl + T
+- **TimeStamper: Insert preconfigured date stamp**: Command (⌘) / Ctrl + Shift + O
+- **TimeStamper: Insert preconfigured time stamp**: Command (⌘) / Ctrl + Shift + P
+- **Toggle bold**: Command (⌘) / Ctrl + B
+- **Toggle italic**: Command (⌘) / Ctrl + I
+- **Unique note creator**: Create new unique note: Command (⌘) / Ctrl + U (Important for creating Reference Notes.)
 
 
 ---
