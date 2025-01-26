@@ -12,7 +12,7 @@ date_created: 2024-03-04-Monday
 date_modified: 2024-06-13-Thursday
 ---
 
-[[Ph.D. Dashboard]]
+[[Dashboard]]
 %%Template: [[People Professional]]%%
 
 ---
