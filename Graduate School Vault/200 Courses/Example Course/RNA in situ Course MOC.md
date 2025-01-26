@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases: [RNA in Situ Course]
 Year: 2024
 Semester: Summer
 Professor: "[[Marie Curie]]"
@@ -10,13 +10,13 @@ tags:
   - course
   - MOC
   - SBMS
-title: Example School MOC
+title: RNA in Situ Hybridization Techniques
 date_created: 2024-06-07-Friday
 date_modified: 2024-06-13-Thursday
-Description: What is the course about?
+Description: Covering principles, techniques, and applications for biomedical research.
 ---
 
-[[Course MOC]] / [[Ph.D. Dashboard]]
+[[Course MOC]] / [[Dashboard]]
 
 ---
 
@@ -32,20 +32,25 @@ actions:
   - type: command
     command: workspace:new-tab
   - type: createNote
-    folderPath: 200 Courses/Example Course/Study Notes
+    folderPath: 200 Courses/RNA in situ Course/Study Notes
     fileName: New Note
     openNote: true
-
 ```
 
 <br> 
 
 ```ad-note
 title: Course Resources
-collapse: closed
+collapse: open
 
 _Resources used for these notes._
+
+- [Review Paper: RNA In Situ Hybridization Techniques](https://example.com/review-paper)
+- [[Marie Curie]]’s Lecture Slides
+- Laboratory Manual: RNA Hybridization Protocols
+
 ```
+
 
 <br>
 
@@ -53,7 +58,7 @@ _Resources used for these notes._
 
 ```dataview 
 TABLE Lecturer, summary AS "Summary"
-FROM "200 Courses/Example Course/Study Notes"
+FROM "200 Courses/RNA in situ Course/Study Notes"
 SORT file.ctime desc 
 
 ```
@@ -65,7 +70,7 @@ SORT file.ctime desc
 
 ```dataview
 TASK
-FROM "200 Courses/Example Course"
+FROM "200 Courses/RNA in situ Course"
 WHERE !completed
 GROUP BY file.link
 SORT file.name asc
