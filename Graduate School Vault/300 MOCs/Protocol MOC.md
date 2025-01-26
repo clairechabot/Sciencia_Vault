@@ -9,7 +9,7 @@ banner: "![[lab.jpeg]]"
 banner_y: 0.684
 ---
 
- [[Ph.D. Dashboard]]
+ [[Dashboard]]
 %% **Template**: [[Protocol Template]]%%
 
 ---
