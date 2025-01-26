@@ -9,7 +9,7 @@ projects:
 protocol_type:
 ---
 
-[[Protocol MOC]]/ [[Ph.D. Dashboard]] 
+[[Protocol MOC]]/ [[Dashboard]] 
 
 ---
 
