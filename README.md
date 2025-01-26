@@ -1,12 +1,45 @@
-# Obsidian Graduate School Vault
+# Sciencia Vault
 
-Welcome to the **Graduate School Vault**! This vault is designed to support anyone navigating the challenges of graduate school in the life sciences, whether you're pursuing a master's degree, a Ph.D., or managing academic projects. With its structured layout and focus on efficient note-taking and project organization, this vault will help you stay on top of your coursework, research, and professional goals.
+Welcome to the **Sciencia Vault**! This vault is designed to support anyone navigating the challenges of graduate school in the life sciences, whether you're pursuing a master's degree, a Ph.D., or managing academic projects. With its structured layout and focus on efficient note-taking and project organization, this vault will help you stay on top of your coursework, research, and professional goals.
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/cchabot)
 
 ## What's Inside?
+This is my first coding project, and it’s taken me about a year to create and test this system (a heartfelt thanks to my colleagues who tested early versions!). Along the way, I refined it into a model that saves time, boosts productivity in the lab, and reduces the headache of organization in the long run.
 
-### Main Directories
+The core idea of this vault is that a little effort goes a long way. Every day, there are tasks to add, update, and plan—activities that are unavoidable in research. I wanted to create something that makes those day-to-day functions easier and more intuitive: a central hub where all the information is connected and accessible. The beauty of this system is that the more you build into it, the greater the payback.
+
+Using the Zettelkasten method, I’ve transformed how I research papers, remember references, and maintain a repository of sentences I can use—already in my own voice and fully cited. Over time, this has become a web of interconnected ideas, papers, and notes, allowing me to retrieve critical information quickly without hours of searching. By integrating this system with a GPT API key or even the free Smart Connections plugin, you can harness AI to uncover patterns and relationships within your work. This means:
+
+- Finding connections between research paper notes (written in your own words and already cited).
+- Avoiding lost meeting notes.
+- Keeping track of contributions in collaborative projects.
+- Creating hubs of information that naturally draw related insights together.
+- Developing a personal assistant that grows alongside your research.
+
+In short, this vault doesn’t just store information—it actively helps you think, plan, and organize better.
+
+## How This Vault Has Helped Me
+So far, my own vault has helped me:
+- Write abstracts for conference deadlines in record time.
+- Keep track of tasks and key takeaways from meetings.
+- Manage complex projects with many moving parts and collaborators.
+- Apply insights from classes, seminars, and conferences directly to my lab work.
+- Stay on top of small and large tasks that used to pile up and get forgotten.
+
+For me, this system is an invaluable tool that I’m excited to continue developing throughout my Ph.D. It grows and evolves as my research does, becoming even more useful over time.
+
+## How It Can Help You
+Whether you’re a graduate student, an junior project leader, or someone managing multiple projects, this vault can:
+
+- Make research feel less overwhelming and more streamlined.
+- Help you focus on the science instead of drowning in administrative details.
+- Turn the small, day-to-day tasks into manageable and meaningful progress.
+- Provide a stress-free way to stay organized and save time.
+
+In short, this vault can take the pressure off, make research a little more fun, and help you unlock more of your creative and intellectual potential.
+
+## Main Directories
 
 - **000 Zettelkasten**: A collection of interconnected notes using the Zettelkasten method. These atomic notes will help you link ideas, organize your thoughts, and foster creative insights.
 - **100 Lab Notes**: Perfect for recording experiments, observations, and research insights. This section is your go-to for managing your scientific workflows.
@@ -20,25 +53,26 @@ Welcome to the **Graduate School Vault**! This vault is designed to support anyo
 
 - **Ph.D. Dashboard.md**: Your command center for managing research tasks, tracking milestones, and staying organized throughout your graduate journey.
 
-## Why You'll Love This Vault
+## Basic Structure of the Vault 
 
 - **Zettelkasten Methodology**: Build a web of interconnected ideas to deepen your understanding and spark creativity.
 - **Buttons & Integrated Templates**: Save time and maintain consistency across all your notes.
 - **Maps of Content**: Navigate your vault effortlessly with thematic entry points.
-- **Tailored for Grad Students**: Stay on top of research, coursework, and professional development with purpose-built tools. Even if you're not a grad student, have fun customising this to your own work organisation goals! 
+- **Tailored for Grad Students**: Stay on top of research, coursework, and professional development with purpose-built tools. 
 
-## Getting Started
+# Getting Started
 
 1. **Install Obsidian**: If you don’t have it yet, download and install [Obsidian](https://obsidian.md/).
 2. **Clone the Repository**:
    ```bash
    git clone https://github.com/clairechabot/Graduate_School_Vault.git
 
-### Open the Vault
+## Open the Vault
 
 1. Launch Obsidian.  
 2. Select **"Open folder as vault."**  
-3. Choose the cloned repository.  
+3. Choose the cloned repository.
+4. Accept and trust plugins by the creator of the vault. If not, the vault will not function. 
 
 ---
 
