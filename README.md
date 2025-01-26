@@ -65,7 +65,7 @@ In short, this vault can take the pressure off, make research a little more fun,
 1. **Install Obsidian**: If you don’t have it yet, download and install [Obsidian](https://obsidian.md/).
 2. **Clone the Repository**:
    ```bash
-   git clone https://github.com/clairechabot/Graduate_School_Vault.git
+   git clone https://github.com/clairechabot/Sciencia_Vault.git
 
 ## Open the Vault
 
