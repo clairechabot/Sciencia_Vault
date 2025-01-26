@@ -1,6 +1,6 @@
 # Sciencia Vault
 
-Welcome to the **Sciencia Vault**! This vault is designed to support anyone navigating the challenges of graduate school in the life sciences, whether you're pursuing a master's degree, a Ph.D., or managing academic projects. With its structured layout and focus on efficient note-taking and project organization, this vault will help you stay on top of your coursework, research, and professional goals.
+Welcome to the **Sciencia Vault**! This vault is designed to support anyone navigating the challenges of graduate school in the life sciences, whether you're pursuing a graduate degree, a junior scientist, or managing multiple academic projects. With its structured layout and focus on efficient note-taking and project organization, this vault will help you stay on top of your coursework, research, and professional goals.
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/cchabot)
 
