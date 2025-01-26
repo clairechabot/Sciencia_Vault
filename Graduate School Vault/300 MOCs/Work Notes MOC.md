@@ -8,7 +8,7 @@ banner: "![[women-students-attend-a-lecture-in-the-general-lecture-room-at-the-m
 banner_y: 0.508
 ---
 
-[[Ph.D. Dashboard]]
+[[Dashboard]]
 
 %%**Template:** [[Daily Note]]%%
 
