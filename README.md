@@ -72,7 +72,7 @@ In short, this vault can take the pressure off, make research a little more fun,
 1. Launch Obsidian.  
 2. Select **"Open folder as vault."**  
 3. Choose the cloned repository.
-4. Accept and trust plugins by the creator of the vault. If not, the vault will not function. 
+4. Select "Trust Author and enable plugins." If not, the vault will not function. 
 
 ---
 
