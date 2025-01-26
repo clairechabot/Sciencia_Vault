@@ -10,7 +10,7 @@ created: <% tp.date.now("YYYY-MM-DD") %>
 date: <% tp.file.creation_date("YYYY-MM-DD") %>
 ---
 
-[[Ph.D. Dashboard]] | [[Work Notes MOC]]
+[[Dashboard]] | [[Work Notes MOC]]
 
 ---
 
