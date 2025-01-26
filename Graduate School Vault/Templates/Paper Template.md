@@ -8,7 +8,7 @@ tags:
   - research_paper
 ---
 
-[[Ph.D. Dashboard]]
+[[Dashboard]]
 
 ---
 
