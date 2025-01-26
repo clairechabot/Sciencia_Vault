@@ -6,7 +6,7 @@ tags:
   - MOC
 projects:
 ---
-[[Ph.D. Dashboard]]
+[[Dashboard]]
 %% [[Topic MOC Template]] %% 
 
 --- 
