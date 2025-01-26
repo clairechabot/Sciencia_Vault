@@ -3,7 +3,7 @@ project:
 summary:
 ---
 
-[[Ph.D. Dashboard]]
+[[Dashboard]]
 
 --- 
 
