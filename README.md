@@ -25,7 +25,7 @@ Welcome to the **Graduate School Vault**! This vault is designed to support anyo
 - **Zettelkasten Methodology**: Build a web of interconnected ideas to deepen your understanding and spark creativity.
 - **Buttons & Integrated Templates**: Save time and maintain consistency across all your notes.
 - **Maps of Content**: Navigate your vault effortlessly with thematic entry points.
-- **Tailored for Grad Students**: Stay on top of research, coursework, and professional development with purpose-built tools. Even if you're not a grad student, have fun customising this to your own personal organisation goals! 
+- **Tailored for Grad Students**: Stay on top of research, coursework, and professional development with purpose-built tools. Even if you're not a grad student, have fun customising this to your own work organisation goals! 
 
 ## Getting Started
 
