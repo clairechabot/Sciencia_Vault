@@ -8,7 +8,7 @@ banner: "![[night before the exam.jpg]]"
 banner_y: 0.288
 ---
 
-[[Ph.D. Dashboard]]
+[[Dashboard]]
 
 %%**Template:** [[Meeting Template]]%%
 
