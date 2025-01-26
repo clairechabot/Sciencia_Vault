@@ -199,13 +199,13 @@ Artem's other videos for insights on Obsidian are also very helpful!
 
 ---
 
-The **"People"** and **"Meetings"** templates in this vault were adapted directly from Dan Berg's blog, which has been an invaluable resource:
+The **Daily Note/Work Note**, **"People"**, **"Meetings"** templates in this vault were adapted directly from Dan Berg's blog, which has been an invaluable resource:
 
-- **[People Note Template](https://www.danbergblog.com/your-link-here)**  
-  A guide for creating comprehensive notes about individuals, adapted here as the "People" template.
+- **[Daily Note Template](https://dannb.org/blog/2022/obsidian-daily-note-template/)** 
 
-- **[Meeting Note Template](https://www.danbergblog.com/your-link-here)**  
-  A helpful structure for documenting meetings, adapted here as the "Meetings" template.
+- **[People Note Template](https://dannb.org/blog/2022/obsidian-people-note-template/)**  
+
+- **[Meeting Note Template](https://dannb.org/blog/2023/obsidian-meeting-note-template/)**  
   
 ---
 
