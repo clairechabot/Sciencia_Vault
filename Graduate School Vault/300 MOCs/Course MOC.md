@@ -11,7 +11,7 @@ banner: "![[undefined - Imgur (1).jpg]]"
 banner_y: 0.448
 ---
 
-[[Ph.D. Dashboard]]
+[[Dashboard]]
 %%**Template**: [[Course Note Template]]%%
 
 ---
