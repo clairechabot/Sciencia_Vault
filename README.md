@@ -181,7 +181,7 @@ Useful shortcuts that are already integrated with the vaults structure and plugi
 # Recommended Apps
 
 - **[Zotero](https://www.zotero.org/)**  
-  Zotero is a powerful reference management tool that can be integrated with Zettelkasten notes to streamline your workflow. Artem’s videos provide excellent guidance on how to use Zotero effectively alongside Obsidian and the Zettelkasten method. Download Zotero [here](https://www.zotero.org/).
+  Zotero is a powerful reference management tool that can be integrated with Zettelkasten notes to streamline your workflow. Artem’s videos _(referenced below)_ provide excellent guidance on how to use Zotero effectively alongside Obsidian and the Zettelkasten method. Download Zotero [here](https://www.zotero.org/).
 
 ---
 
