@@ -20,6 +20,7 @@ banner_y: 0.448
 _"The beautiful thing about learning is that no one can take it away from you."_ - **B.B. King**
 ```
 
+```meta-bind-button
 label: New Course MOC
 icon: ""
 hidden: false
@@ -33,6 +34,7 @@ actions:
     folderPath: 200 Courses
     fileName: ""
     openNote: true
+```
 
 This will be used to organize all of my course notes by the class, then the folders and tags relevant to different topics in each class. It will act as a hub for you to find information from the notes I've taken. These notes will also be linked to [[People MOC]] that links the person's giving the course you're attending. 
 
