@@ -26,13 +26,13 @@ actions:
   - type: command
     command: workspace:new-tab
   - type: createNote
-    folderPath: 200 Courses/LTK/Classes
+    folderPath: 200 Courses/NEW CLASS/Classes
     fileName: New Course Note
     openNote: true
 
 ```
 
-_You will need to change the folder that the new study note goes into when you create a new Course MOC; look at folder path._ 
+_You will need to change the folder that the new study note goes into when you create a new Course MOC; look at folder path for the button where it says "NEW CLASS"._ 
 
 <br>
 
