@@ -5,6 +5,9 @@ Welcome to the **Sciencia Vault**! This vault is designed to support anyone navi
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/cchabot)
 
 ## What's Inside?
+
+![image](https://github.com/user-attachments/assets/2a0a1339-5b28-4ada-b8e8-9f0434079607)
+
 This is my first coding project, and it’s taken me about a year to create and test this system (a heartfelt thanks to my colleagues who tested early versions!). Along the way, I refined it into a model that saves time, boosts productivity in the lab, and reduces the headache of organization in the long run.
 
 The core idea of this vault is that a little effort goes a long way. Every day, there are tasks to add, update, and plan—activities that are unavoidable in research. I wanted to create something that makes those day-to-day functions easier and more intuitive: a central hub where all the information is connected and accessible. The beauty of this system is that the more you build into it, the greater the payback.
