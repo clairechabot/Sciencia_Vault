@@ -1,4 +1,4 @@
-## Update: Plugin Folder Successfully Uploaded 🎉
+### Update: Plugin Folder Successfully Uploaded 🎉
 The `.obsidian/plugins/` folder has now been successfully uploaded. 
 If you clone this repository, all necessary plugins should be available.
 
