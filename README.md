@@ -1,3 +1,8 @@
+## Update: Plugin Folder Successfully Uploaded 🎉
+The `.obsidian/plugins/` folder has now been successfully uploaded. 
+If you clone this repository, all necessary plugins should be available.
+
+
 # Sciencia Vault
 
 Welcome to the **Sciencia Vault**! This vault is designed to support anyone navigating the challenges of graduate school in the life sciences, whether you're pursuing a graduate degree, a junior scientist, or managing multiple academic projects. With its structured layout and focus on efficient note-taking and project organization, this vault will help you stay on top of your coursework, research, and professional goals.
