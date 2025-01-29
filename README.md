@@ -1,4 +1,4 @@
-### Update: Plugin Folder Successfully Uploaded 🎉
+### 29.01.2025 Update: Plugin Folder Successfully Uploaded 🎉
 The `.obsidian/plugins/` folder has now been successfully uploaded. Please make sure to enable all CSS snippets by going to **Settings** > **Appearance** > Scroll to the bottom and enable all the snippets. 
 
 If you clone this repository, all necessary plugins should be available. Let me know if there are any other issues to fix. 
