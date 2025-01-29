@@ -1,0 +1,371 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4509724f8bf84da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dashboard.md",
+                "mode": "preview",
+                "source": true
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Dashboard"
+            }
+          },
+          {
+            "id": "d6b2bbd015337871",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "200 Courses/SIB Statistics w R/Study Notes/2025-01-29 Day 3.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "2025-01-29 Day 3"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "07d4eed8fbd1bd1d",
+    "type": "split",
+    "children": [
+      {
+        "id": "ae4c1a1e753b7d80",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe8913c82264f5a4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5558371a8d2b518c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "02293422d49dd65e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 279.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "68770364567113b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "fbedf7f0fb2d4ef4",
+        "type": "tabs",
+        "dimension": 48.91640866873065,
+        "children": [
+          {
+            "id": "09ec15983a4273ed",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "100 Lab Notes/Work Notes/2025/01-January/2025-01-21-Tuesday.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2025-01-21-Tuesday"
+            }
+          },
+          {
+            "id": "f46611ee000c2357",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "100 Lab Notes/Work Notes/2024/12-December/2024-12-17-Tuesday.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2024-12-17-Tuesday"
+            }
+          },
+          {
+            "id": "2270e8318aec8a64",
+            "type": "leaf",
+            "state": {
+              "type": "online.tokuhirom.obsidian-pomodoro-plugin",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "5185f20462364be2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "180540903a704587",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "3e8a2374a7de0927",
+            "type": "leaf",
+            "state": {
+              "type": "podcast_player_view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "cf3e47a1863a34f8",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "df147cc16061f794",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-chat-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "451188e5d4408b2a",
+            "type": "leaf",
+            "state": {
+              "type": "podcast_player_view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "f8397e3d2fbfda9c",
+            "type": "leaf",
+            "state": {
+              "type": "online.tokuhirom.obsidian-pomodoro-plugin",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "662f1c71915996cb",
+            "type": "leaf",
+            "state": {
+              "type": "podcast_player_view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "79c0d5ab1414af78",
+            "type": "leaf",
+            "state": {
+              "type": "podcast_player_view",
+              "state": {},
+              "icon": "play-circle",
+              "title": "Podcast Player"
+            }
+          },
+          {
+            "id": "6dcc38b523250124",
+            "type": "leaf",
+            "state": {
+              "type": "online.tokuhirom.obsidian-pomodoro-plugin",
+              "state": {},
+              "icon": "clock",
+              "title": "Pomodoro timer"
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "82d33f74e6e598f4",
+        "type": "tabs",
+        "dimension": 51.08359133126936,
+        "children": [
+          {
+            "id": "a0f599d089a8793e",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "200 Courses/SIB Statistics w R/Study Notes/2025-01-29 Day 3.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for 2025-01-29 Day 3"
+            }
+          },
+          {
+            "id": "947478fff9a89d08",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "200 Courses/SIB Statistics w R/Study Notes/2025-01-29 Day 3.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2025-01-29 Day 3"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 371.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "markdown-importer:Open format converter": false,
+      "canvas:Create new canvas": false,
+      "switcher:Open quick switcher": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "zk-prefixer:Create new unique note": false,
+      "homepage:Open homepage": false,
+      "janitor:Janitor: scan vault": false,
+      "templater-obsidian:Templater": false,
+      "widgets:Add widget": false,
+      "obsidian-wordy:Wordy view": false,
+      "omnisearch:Omnisearch": false,
+      "callout-manager:Insert Callout": false,
+      "completed-task-display:Task Hider": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections:Open: Smart Chat Conversation": false
+    }
+  },
+  "active": "d6b2bbd015337871",
+  "lastOpenFiles": [
+    "Files/Attachments/Screenshot 2025-01-29 at 09.30.13.png",
+    "Files/Attachments/Screenshot 2025-01-29 at 09.27.06.png",
+    "Files/Attachments/Screenshot 2025-01-29 at 09.20.36.png",
+    "Files/Attachments/Screenshot 2025-01-29 at 09.18.22.png",
+    "200 Courses/SIB Statistics w R/SIB Statistics w R.md",
+    "200 Courses/SIB Statistics w R/Study Notes/2025-01-29 Day 3.md",
+    "Dashboard.md",
+    "200 Courses/SIB Statistics w R/Study Notes/2025-01-28 Day 2.md",
+    "Files/Attachments/Screenshot 2025-01-28 at 16.24.01.png",
+    "Files/Attachments/Screenshot 2025-01-28 at 16.04.31.png",
+    "Files/Attachments/Screenshot 2025-01-28 at 16.03.47.png",
+    "Files/Attachments/Screenshot 2025-01-28 at 15.59.27.png",
+    "Files/Attachments/Screenshot 2025-01-28 at 15.59.13.png",
+    "Files/Attachments/Screenshot 2025-01-28 at 15.56.42.png",
+    "Files/Attachments/Screenshot 2025-01-28 at 14.52.13.png",
+    "200 Courses/SIB Statistics w R/Study Notes/2025-01-27 Day 1.md",
+    "300 MOCs/Course MOC.md",
+    "200 Courses/SIB Statistics w R",
+    "200 Courses/SIB Statistics w R/Study Notes",
+    "Untitled.md",
+    "300 MOCs/Meetings MOC.md",
+    "Templates/Topic MOC Template.md",
+    "Templates/Study Notes.md",
+    "Templates/Protocol Template.md",
+    "Templates/Project Note Template.md",
+    "Templates/Project MOC Template.md",
+    "Templates/People Professional.md",
+    "Templates/Paper Template.md",
+    "Templates/Meeting Template.md",
+    "Templates/Lab Inventory Template.md",
+    "Templates/Experiment Template.md",
+    "Templates/Daily Note.md",
+    "Templates/Course MOC Template.md",
+    "Templates/Core Idea.md",
+    "Reference Notes/@moriartyFracturerelatedInfection2022.md",
+    "Files/People/Marie Curie.md",
+    "Files/People/Albert Einstein.md",
+    "300 MOCs/Work Notes MOC.md",
+    "100 Lab Notes/Work Notes/2025/01-January",
+    "100 Lab Notes/Work Notes/2025",
+    "Files/People/People Images/Albert_einstein.avif.crdownload",
+    "200 Courses/Example Course/Study Notes",
+    "200 Courses/Example Course",
+    "100 Lab Notes/Projects/Example Project/Project Notes",
+    "100 Lab Notes/Projects/Example Project/Experiments",
+    "100 Lab Notes/Projects/Example Project",
+    "Untitled.canvas"
+  ]
+}
