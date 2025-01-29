@@ -1,6 +1,7 @@
 ### Update: Plugin Folder Successfully Uploaded 🎉
-The `.obsidian/plugins/` folder has now been successfully uploaded. 
-If you clone this repository, all necessary plugins should be available.
+The `.obsidian/plugins/` folder has now been successfully uploaded. Please make sure to enable all CSS snippets by going to **Settings** > **Appearance** > Scroll to the bottom and enable all the snippets. 
+
+If you clone this repository, all necessary plugins should be available. Let me know if there are any other issues to fix. 
 
 
 # Sciencia Vault
@@ -80,7 +81,9 @@ In short, this vault can take the pressure off, make research a little more fun,
 1. Launch Obsidian.  
 2. Select **"Open folder as vault."**  
 3. Choose the cloned repository.
-4. Select "Trust Author and enable plugins." If not, the vault will not function. 
+4. Select "Trust Author and enable plugins." If not, the vault will not function.
+5. Enable all CSS snippets by going to **Settings** > **Appearance** > Scroll to the bottom and enable all the snippets.
+6. Close and re-load the vault to ensure all CSS snippets are working. 
 
 ---
 
