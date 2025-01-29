@@ -1,0 +1,45 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiMicroscope",
+      "LiCalendarCheck",
+      "LiLeaf",
+      "LiRecycle",
+      "LiPencilLine"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": true,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "debugMode": false,
+    "iconInTitlePosition": "above",
+    "lucideIconPackType": "native",
+    "useInternalPlugins": false
+  },
+  "Ph.D. Dashboard.md": "LiMicroscope",
+  "300 MOCs/Course MOC.md": "LiGraduationCap",
+  "300 MOCs/Lab Inventory MOC.md": "LiClipboardList",
+  "300 MOCs/Meetings MOC.md": "LiCalendarCheck",
+  "300 MOCs/People MOC.md": "LiPersonStanding",
+  "300 MOCs/Protocol MOC.md": "LiNotebookPen",
+  "300 MOCs/Work Notes MOC.md": "LiMicroscope",
+  "Dashboard.md": "LiMicroscope"
+}
