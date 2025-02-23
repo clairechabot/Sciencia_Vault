@@ -1,0 +1,292 @@
+/* STICKY NOTES */
+/* Release v1.3 */
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono&family=IBM+Plex+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Edu+SA+Beginner&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kalam&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Chilanka&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playpen+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Shantell+Sans&display=swap');
+
+
+:root {  
+  --sticky-color-green: #b8bb26cc;
+  --sticky-color-red: #fb4934cc;
+  --sticky-color-yellow: #FABD2Fcc;
+  --sticky-color-blue: #83a598cc;
+  --sticky-color-purple: #d3869bcc;
+  --sticky-color-aqua: #8ec07ccc;
+  --sticky-color-orange: #fe8019cc;
+  
+  --sticky-color-default: #FABD2Fcc;
+  --sticky-color-text: #282828;
+  --sticky-note-max-width: 600px;
+  --sticky-border-radius: 8px;
+}
+
+body {
+  --sticky-width: 30%;
+  --sticky-offset: 16px;
+  --line-width: var(--file-line-width, --line-width);
+}
+
+.callout.callout.callout[data-callout~=sticky]:is([data-callout-metadata~=left]):not([data-callout-metadata~=nofloat]) {
+  float: left;
+  margin: unset;
+  margin-right: 8px;
+}
+
+.callout.callout.callout[data-callout~=sticky]:is([data-callout-metadata~=nofloat]) {
+  float: unset !important;
+  margin-bottom: 20px !important;
+}
+
+.callout.callout[data-callout~=sticky]:is([data-callout-metadata~=right]) {
+  float: right;
+  margin: unset;
+  margin-left: 8px;
+}
+
+.callout.callout.callout[data-callout~=sticky]:is([data-callout-metadata~=ctr],
+[data-callout-metadata~=center]) {
+  display: block;
+  margin: auto;
+  float: unset;
+}
+
+.callout[data-callout~=sticky] {
+  --callout-icon: sticky-note;
+  background-color: var(--sticky-color-default) !important;
+  color: var(--sticky-color-text);
+  font-family: var(--sticky-font);
+  font-size: var(--sticky-font-size);
+  max-width: var(--sticky-note-max-width); 
+  margin: auto;
+  display: block;
+  float: unset;
+}
+
+.callout[data-callout~=sticky]:is([data-callout-metadata~=s-35]) { --sticky-width: 35%; }
+.callout[data-callout~=sticky]:is([data-callout-metadata~=s-40]) { --sticky-width: 40%; }
+.callout[data-callout~=sticky]:is([data-callout-metadata~=s-45]) { --sticky-width: 45%; }
+.callout[data-callout~=sticky]:is([data-callout-metadata~=s-50]) { --sticky-width: 50%; }
+.callout[data-callout~=sticky]:is([data-callout-metadata~=s-55]) { --sticky-width: 55%; }
+.callout[data-callout~=sticky]:is([data-callout-metadata~=s-60]) { --sticky-width: 60%; }
+.callout[data-callout~=sticky] { width: var(--sticky-width); }
+
+.callout[data-callout~=sticky] .callout-title { display: none; }
+.callout[data-callout~=sticky] .callout-title-inner { padding-top: 0.25em; }
+.callout[data-callout~=sticky] .callout-content { padding: 10px; }
+
+.callout[data-callout~=sticky] {
+  border-radius: var(--sticky-border-radius) !important;
+  border-width: 1px !important;
+  padding: 0px;
+  > .callout-content > :first-child {
+      margin-top: 0px;
+  }
+  > .callout-content > :last-child {
+      margin-bottom: 0px;
+  }
+}
+
+.callout[data-callout~=sticky] .callout-content strong,
+.callout[data-callout~=sticky] .callout-content em {
+  color: var(--sticky-color-text);
+  text-decoration: none;
+}
+
+.callout[data-callout~=sticky] .callout-content a.internal-link,
+.callout[data-callout~=sticky] .callout-content a.external-link { 
+  color:var(--sticky-color-text); 
+}
+
+.callout[data-callout~=sticky]:is([data-callout-metadata~=green]) { background-color: var(--sticky-color-green) !important; }
+.callout[data-callout~=sticky]:is([data-callout-metadata~=red]) { background-color: var(--sticky-color-red) !important; }
+.callout[data-callout~=sticky]:is([data-callout-metadata~=yellow]) { background-color: var(--sticky-color-yellow) !important; }
+.callout[data-callout~=sticky]:is([data-callout-metadata~=blue]) { background-color: var(--sticky-color-blue) !important; }
+.callout[data-callout~=sticky]:is([data-callout-metadata~=purple]) { background-color: var(--sticky-color-purple) !important; }
+.callout[data-callout~=sticky]:is([data-callout-metadata~=aqua]) { background-color: var(--sticky-color-aqua) !important; }
+.callout[data-callout~=sticky]:is([data-callout-metadata~=orange]) { background-color: var(--sticky-color-orange) !important; }
+
+.callout[data-callout~=sticky]:is([data-callout-metadata~=green]) mark { background-color: var(--sticky-color-green) !important; }
+.callout[data-callout~=sticky]:is([data-callout-metadata~=red]) mark { background-color: var(--sticky-color-red) !important; }
+.callout[data-callout~=sticky]:is([data-callout-metadata~=yellow]) mark { background-color: var(--sticky-color-yellow) !important; }
+.callout[data-callout~=sticky]:is([data-callout-metadata~=blue]) mark { background-color: var(--sticky-color-blue) !important; }
+.callout[data-callout~=sticky]:is([data-callout-metadata~=purple]) mark { background-color: var(--sticky-color-purple) !important; }
+.callout[data-callout~=sticky]:is([data-callout-metadata~=aqua]) mark { background-color: var(--sticky-color-aqua) !important; }
+.callout[data-callout~=sticky]:is([data-callout-metadata~=orange]) mark { background-color: var(--sticky-color-orange) !important; }
+.callout[data-callout~=sticky] .callout-content mark { opacity: 1;}
+
+.callout[data-callout~=sticky]:is([data-callout-metadata~=title]) .callout-content:first-line {
+  font-weight: bold;
+} 
+
+.sticky-zoom .callout[data-callout~=sticky]:hover, .callout[data-callout~=sticky]:focus{
+  box-shadow:10px 10px 7px rgba(40,40,40,.7);
+  transform: scale(1.25);
+  position:relative;
+  z-index:5;
+  opacity: 1;
+  transition: transform 0.5s ease 0s;
+  display: block;
+}
+
+/* ===================================================
+   ASIDES
+   =================================================== */
+
+
+:is(.markdown-source-view .cm-callout, div:not([class])):has(> .callout[data-callout-metadata*="aside"]) {
+  position: relative;
+  overflow: visible;
+}
+
+.callout[data-callout-metadata*="aside"] {
+  position: absolute;
+}
+
+.callout[data-callout-metadata~="aside"][data-callout-metadata~="left"],
+.callout[data-callout-metadata~="aside"]:not([data-callout-metadata~="right"]) {
+  left: calc(-1 * (var(--sticky-width) + var(--sticky-offset)));
+  right: calc(100% + var(--sticky-offset));
+}
+
+.callout[data-callout-metadata~="aside"][data-callout-metadata~="right"] {
+  left: calc(var(--file-line-width) + var(--sticky-offset));
+  right: calc(-1 * var(--sticky-width));
+}
+
+/* @settings
+name: Sticky Notes
+id: sticky-notes
+settings:
+  -
+    id: info-text-sticky-notes
+    type: info-text
+    title: Sticky Notes by *Daniel Hansen*
+    description: Derived from *ITS Callout snippet*
+    markdown: true
+  -
+    id: sticky-color-default
+    title: Default
+    description: Default color for Sticky Notes. Used when not color is specified in markdown.
+    type: variable-color
+    format: rgb
+    opacity: true
+    default: '#FABD2FCC'
+  -
+    id: sticky-color-yellow
+    title: Yellow
+    description: Yellow sticky notes
+    type: variable-color
+    format: rgb
+    opacity: true
+    default: '#FABD2FCC'
+  -
+    id: sticky-color-green
+    title: Green
+    description: Green sticky notes
+    type: variable-color
+    format: rgb
+    opacity: true
+    default: '#b8bb26cc'
+  -
+    id: sticky-color-red
+    title: Red
+    description: Red sticky notes
+    type: variable-color
+    format: rgb
+    opacity: true
+    default: '#fb4934cc'
+  -
+    id: sticky-color-purple
+    title: Purple
+    description: Purple sticky notes
+    type: variable-color
+    format: rgb
+    opacity: true
+    default: '#d3869bcc'
+  -
+    id: sticky-color-aqua
+    title: Aqua
+    description: Aqua sticky notes
+    type: variable-color
+    format: rgb
+    opacity: true
+    default: '#8ec07ccc'
+  -
+    id: sticky-color-orange
+    title: Orange
+    description: Orange sticky notes
+    type: variable-color
+    format: rgb
+    opacity: true
+    default: '#fe8019cc'
+  -
+    id: sticky-color-text
+    title: Text color
+    description: Text Color
+    type: variable-color
+    format: rgb
+    opacity: false
+    default: '#333333'
+  -
+    id: sticky-font
+    title: Sticky Notes font
+    description: Font used for sticky notes.
+    type: variable-select
+    default: Roboto
+    options:
+      -
+        label: IBM Plex Sans
+        value: IBM Plex Sans
+      -
+        label: IBM Plex Mono
+        value: IBM Plex Mono
+      -
+        label: Roboto
+        value: Roboto
+      -
+        label: Chilanka
+        value: Chilanka
+      -
+        label: Kalam
+        value: Kalam
+      -
+        label: Architects Daughter
+        value: Architects Daughter
+      -
+        label: Edu SA Beginner
+        value: Edu SA Beginner
+      -
+        label: Playpen Sans
+        value: Playpen Sans
+      -
+        label: Shantell Sans
+        value: Shantell Sans
+  -
+    id: sticky-font-size
+    title: Sticky Notes font size
+    description: Size of the Sticky Notes text
+    type: variable-text
+    default: 1.2em
+  -
+    id: sticky-offset
+    title: Sticky offset (Aside)
+    description: When using Aside, the offset between the sticky and the text
+    type: variable-number-slider
+    default: 12
+    min: 0
+    max: 50
+    step: 1
+    format: px
+  -
+    id: sticky-zoom
+    title: Zoom on hover
+    description: Zooms sticky notes on mouse hover (experimental)
+    type: class-toggle
+*/

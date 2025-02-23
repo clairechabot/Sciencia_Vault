@@ -1,0 +1,284 @@
+{
+  "PhD": {
+    "main": {
+      "id": "b3980ec112dba4ad",
+      "type": "split",
+      "children": [
+        {
+          "id": "12bb3d9fdf2e72b7",
+          "type": "tabs",
+          "children": [
+            {
+              "id": "97ac1a3dd43f0052",
+              "type": "leaf",
+              "pinned": true,
+              "state": {
+                "type": "markdown",
+                "state": {
+                  "file": "Ph.D. Dashboard.md",
+                  "mode": "preview",
+                  "source": true
+                },
+                "pinned": true
+              }
+            },
+            {
+              "id": "df969e9e40f85ea5",
+              "type": "leaf",
+              "pinned": true,
+              "state": {
+                "type": "markdown",
+                "state": {
+                  "file": "300 MOCs/Meetings MOC.md",
+                  "mode": "preview",
+                  "source": true
+                },
+                "pinned": true
+              }
+            }
+          ]
+        }
+      ],
+      "direction": "vertical"
+    },
+    "left": {
+      "id": "07d4eed8fbd1bd1d",
+      "type": "split",
+      "children": [
+        {
+          "id": "ae4c1a1e753b7d80",
+          "type": "tabs",
+          "children": [
+            {
+              "id": "fe8913c82264f5a4",
+              "type": "leaf",
+              "state": {
+                "type": "file-explorer",
+                "state": {
+                  "sortOrder": "alphabetical"
+                }
+              }
+            },
+            {
+              "id": "5558371a8d2b518c",
+              "type": "leaf",
+              "state": {
+                "type": "search",
+                "state": {
+                  "query": "",
+                  "matchingCase": true,
+                  "explainSearch": false,
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical"
+                }
+              }
+            },
+            {
+              "id": "02293422d49dd65e",
+              "type": "leaf",
+              "state": {
+                "type": "bookmarks",
+                "state": {}
+              }
+            }
+          ]
+        }
+      ],
+      "direction": "horizontal",
+      "width": 237.50247192382812
+    },
+    "right": {
+      "id": "68770364567113b5",
+      "type": "split",
+      "children": [
+        {
+          "id": "fbedf7f0fb2d4ef4",
+          "type": "tabs",
+          "dimension": 28.397565922920897,
+          "children": [
+            {
+              "id": "09ec15983a4273ed",
+              "type": "leaf",
+              "state": {
+                "type": "backlink",
+                "state": {
+                  "file": "Ph.D. Dashboard.md",
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              }
+            },
+            {
+              "id": "f46611ee000c2357",
+              "type": "leaf",
+              "state": {
+                "type": "outgoing-link",
+                "state": {
+                  "file": "Ph.D. Dashboard.md",
+                  "linksCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              }
+            },
+            {
+              "id": "5185f20462364be2",
+              "type": "leaf",
+              "state": {
+                "type": "tag",
+                "state": {
+                  "sortOrder": "frequency",
+                  "useHierarchy": true
+                }
+              }
+            },
+            {
+              "id": "ab333ebc8c27f04e",
+              "type": "leaf",
+              "state": {
+                "type": "RSS_FEED",
+                "state": {}
+              }
+            },
+            {
+              "id": "2270e8318aec8a64",
+              "type": "leaf",
+              "state": {
+                "type": "online.tokuhirom.obsidian-pomodoro-plugin",
+                "state": {}
+              }
+            },
+            {
+              "id": "3e8a2374a7de0927",
+              "type": "leaf",
+              "state": {
+                "type": "podcast_player_view",
+                "state": {}
+              }
+            },
+            {
+              "id": "c8963d5c6312f386",
+              "type": "leaf",
+              "state": {
+                "type": "wordy-view",
+                "state": {}
+              }
+            },
+            {
+              "id": "583f145742e638d7",
+              "type": "leaf",
+              "state": {
+                "type": "all-properties",
+                "state": {
+                  "sortOrder": "frequency",
+                  "showSearch": false,
+                  "searchQuery": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "id": "82d33f74e6e598f4",
+          "type": "tabs",
+          "dimension": 35.801217038539555,
+          "children": [
+            {
+              "id": "3e11db7b94604539",
+              "type": "leaf",
+              "state": {
+                "type": "calendar",
+                "state": {}
+              }
+            },
+            {
+              "id": "a0f599d089a8793e",
+              "type": "leaf",
+              "state": {
+                "type": "file-properties",
+                "state": {
+                  "file": "Ph.D. Dashboard.md"
+                }
+              }
+            },
+            {
+              "id": "947478fff9a89d08",
+              "type": "leaf",
+              "state": {
+                "type": "outline",
+                "state": {
+                  "file": "Ph.D. Dashboard.md"
+                }
+              }
+            }
+          ],
+          "currentTab": 1
+        },
+        {
+          "id": "a4ab9a9feddc6858",
+          "type": "tabs",
+          "dimension": 35.801217038539555,
+          "children": [
+            {
+              "id": "df852bf027c52c23",
+              "type": "leaf",
+              "state": {
+                "type": "advanced-tables-toolbar",
+                "state": {}
+              }
+            },
+            {
+              "id": "201f8a4f2f941034",
+              "type": "leaf",
+              "state": {
+                "type": "khoj-chat-view",
+                "state": {}
+              }
+            }
+          ]
+        }
+      ],
+      "direction": "horizontal",
+      "width": 297.5
+    },
+    "left-ribbon": {
+      "hiddenItems": {
+        "obsidian-advanced-slides:Show Slide Preview": false,
+        "obsidian-kanban:Create new board": false,
+        "widgets:Add widget": false,
+        "obsidian-wordy:Wordy view": false,
+        "graph:Open graph view": false,
+        "omnisearch:Omnisearch": false,
+        "markdown-importer:Open format converter": false,
+        "workspaces:Manage workspace layouts": false,
+        "switcher:Open quick switcher": false,
+        "canvas:Create new canvas": false,
+        "daily-notes:Open today's daily note": false,
+        "templates:Insert template": false,
+        "command-palette:Open command palette": false,
+        "audio-recorder:Start/stop recording": false,
+        "homepage:Open homepage": false,
+        "table-editor-obsidian:Advanced Tables Toolbar": false,
+        "media-extended:Open media": false,
+        "obsidian-excalidraw-plugin:Create new drawing": false,
+        "completed-task-display:Task Hider": false,
+        "khoj:Khoj": false,
+        "janitor:Janitor: scan vault": false,
+        "workspaces-plus:Manage workspaces": false
+      }
+    },
+    "active": "97ac1a3dd43f0052",
+    "mtime": "2024-06-12T10:49:04+02:00",
+    "workspaces-plus:settings-v1": {
+      "explorerFoldState": [
+        "300 MOCs"
+      ],
+      "description": "All Ph.D. / Workrelated stuff. "
+    }
+  }
+}

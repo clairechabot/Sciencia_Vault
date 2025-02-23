@@ -1,0 +1,12 @@
+{
+  "autosuggestToggleLink": true,
+  "autocompleteTriggerPhrase": "today",
+  "isAutosuggestEnabled": true,
+  "format": "YYYY_MM_DD",
+  "timeFormat": "HH:mm",
+  "separator": " ",
+  "weekStart": "monday",
+  "modalToggleTime": false,
+  "modalToggleLink": false,
+  "modalMomentFormat": "YYYY-MM-DD HH:mm"
+}

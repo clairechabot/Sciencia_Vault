@@ -1,0 +1,17 @@
+{
+  "accentColor": "",
+  "cssTheme": "Minimal",
+  "theme": "moonstone",
+  "enabledCssSnippets": [
+    "supercharged-links-gen",
+    "Book cover",
+    "Cornell",
+    "tabbed",
+    "MCL Gallery Cards",
+    "MCL Multicolumn",
+    "image_align_right"
+  ],
+  "translucency": true,
+  "baseFontSize": 20,
+  "interfaceFontFamily": "Source Serif"
+}

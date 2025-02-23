@@ -1,0 +1,38 @@
+/* Sets all the text color to red! */
+.pomodoro-timer {
+    text-align: center;
+}
+
+.pomodoro-timer .mode-switchers-container {
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+    display: flex;
+    color: white;
+}
+
+.pomodoro-timer .mode-switchers-container div {
+    background-color: rosybrown;
+    margin-left: 20px;
+    padding: 8px;
+    border-radius: 5px;
+    border: darkred 1px dashed;
+}
+.pomodoro-timer .mode-switchers-container div.enabled {
+    background-color: brown;
+}
+
+.pomodoro-timer .mode-switchers-container:after {
+    content: "";
+    display: block;
+    clear: both;
+}
+
+.pomodoro-timer .time {
+    font-size: 180%;
+    text-align: center;
+    padding: 10px;
+}
+.pomodoro-timer .time.over {
+    color: red;
+}

@@ -1,0 +1,10 @@
+{
+	"id": "completed-task-display",
+	"name": "Completed Task Display",
+	"version": "1.0.3",
+	"minAppVersion": "0.10.0",
+	"description": "Provides a button in the ribbon to hide or display completed tasks",
+	"author": "Ben Lee-Cohen",
+	"authorUrl": "https://github.com/heliostatic/completed-task-display",
+	"isDesktopOnly": false
+}

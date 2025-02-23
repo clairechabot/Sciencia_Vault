@@ -1,0 +1,10 @@
+{
+	"id": "obsidian-wordy",
+	"name": "Wordy",
+	"version": "1.3.1",
+	"minAppVersion": "0.15.0",
+	"description": "Thesaurus, rhymes, alliterations, dictionary and more using the Datamuse API",
+	"author": "Nate",
+	"authorUrl": "https://nqthqn.com",
+	"isDesktopOnly": false
+}
