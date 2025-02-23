@@ -1,3 +1,6 @@
+### 23.02.2025 Update: Issues with CSS, JS, templates, and functioning of the vault have been fixed.
+Thank you to those on git who pointed out the issues! If any other problems arise with basic functioning of the vault, let me know. 
+
 ### 29.01.2025 Update: Plugin Folder Successfully Uploaded 🎉
 The `.obsidian/plugins/` folder has now been successfully uploaded. Please make sure to enable all CSS snippets by going to **Settings** > **Appearance** > Scroll to the bottom and enable all the snippets. 
 
@@ -62,6 +65,37 @@ In short, this vault can take the pressure off, make research a little more fun,
 
 - **Dashboard.md**: Your command center for managing research tasks, tracking milestones, and staying organized throughout your graduate journey.
 
+_Map of Content Previews_
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/837626cf-f691-4852-acd2-55e942ca51c1" width="400" alt="200 Courses MOC image">
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/d6cf10ea-865b-41af-8b9f-c02e2bbea33a" width="400" alt="200 Lab Inventory MOC image">
+    </td>
+     <td>
+        <img src="https://github.com/user-attachments/assets/a39f2702-7284-43b1-9a68-57b94c4eee08" width="400" alt="200 Meetings MOC image">
+     </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/0416dceb-b006-46fe-a9c3-88650a2dd5db" width="400" alt="200 People MOC image">
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/975abf59-d439-4a4d-bf7c-38d7ce29847b" width="400" alt="200 Protocol MOC image duplicate">
+    </td>
+     <td>
+        <img src="https://github.com/user-attachments/assets/093046b0-f3e7-4ef8-bf59-08697b1b345f" width="400" alt="400 Courses MOC image duplicate">
+     </td>
+  </tr>
+</table>
+
+
 ## Basic Structure of the Vault 
 
 - **Zettelkasten Methodology**: Build a web of interconnected ideas to deepen your understanding and spark creativity.
@@ -71,10 +105,22 @@ In short, this vault can take the pressure off, make research a little more fun,
 
 # Getting Started
 
+**Method 1:** 
+
 1. **Install Obsidian**: If you don’t have it yet, download and install [Obsidian](https://obsidian.md/).
 2. **Clone the Repository**:
    ```bash
    git clone https://github.com/clairechabot/Sciencia_Vault.git
+3. Open the "Sciencia_Vault" folder within Github as a vault.
+
+ **Method 2:** 
+
+1. **Install Obsidian**: If you don’t have it yet, download and install [Obsidian](https://obsidian.md/).
+2. Go to the **< > Code** Button on the "Sciencia_Vault" mainpage.
+3. Download the ZIP file.
+4. Open the "Sciencia_Vault" folder within the ZIP file in Github as a vault. 
+
+_For either method, make sure to enable and trust plugins in order for the vault to funciton._
 
 ## Open the Vault
 
