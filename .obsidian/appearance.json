@@ -9,9 +9,13 @@
     "tabbed",
     "MCL Gallery Cards",
     "MCL Multicolumn",
-    "image_align_right"
+    "image_align_right",
+    "dashboard",
+    "Dashboard_Readlinelength",
+    "MCL Wide Views"
   ],
   "translucency": true,
   "baseFontSize": 20,
-  "interfaceFontFamily": "Source Serif"
+  "interfaceFontFamily": "Source Serif",
+  "showRibbon": true
 }

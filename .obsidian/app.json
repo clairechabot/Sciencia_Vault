@@ -48,6 +48,5 @@
     "downscalePercent": 100
   },
   "defaultViewMode": "preview",
-  "livePreview": false,
-  "showRibbon": true
+  "livePreview": false
 }
