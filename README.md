@@ -2,21 +2,22 @@
 
 It was pointed out to me that when the vault is downloaded, the theme and style settings that are in the example images are not displayed. I will work on fixing it so this is automaticly included when someone uses the vault for the first time, but in the meantime you can use the following settings to achieve the same look: 
 
-- Theme: Minimal
-- Plugin: Minimal Theme Settings
-- Go to the "Minimal Theme Settings" plug and set the following:
+- **Theme**: Minimal
+- **Plugin**: Minimal Theme Settings
 
-Light mode color scheme: Rose Pine
-Light mode background contrast: Low contrast
-Dark mode color scheme: Rose Pine
-Dark mode background contrast: Default
-Colorful window frame: on
-Colorful active states: on
-Colorful headings: on
-Trim file names in sidebars: on
-Workspace borders: on
-Underline external links: on
-Image grids: on
+**Go to the "Minimal Theme Settings" plug and set the following**
+
+- Light mode color scheme: Rose Pine
+- Light mode background contrast: Low contrast
+- Dark mode color scheme: Rose Pine
+- Dark mode background contrast: Default
+- Colorful window frame: on
+- Colorful active states: on
+- Colorful headings: on
+- Trim file names in sidebars: on
+- Workspace borders: on
+- Underline external links: on
+- Image grids: on
 
 ### 23.02.2025 Update: Issues with CSS, JS, templates, and functioning of the vault have been fixed.
 Thank you to those on git who pointed out the issues! If any other problems arise with basic functioning of the vault, let me know. 
