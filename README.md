@@ -2,9 +2,9 @@
 
 It was pointed out to me that when the vault is downloaded, the theme and style settings that are in the example images are not displayed. I will work on fixing it so this is automaticly included when someone uses the vault for the first time, but in the meantime you can use the following settings to achieve the same look: 
 
-Theme: Minimal
-Plugin: Minimal Theme Settings
-Go to the "Minimal Theme Settings" plug and set the following:
+- Theme: Minimal
+- Plugin: Minimal Theme Settings
+- Go to the "Minimal Theme Settings" plug and set the following:
 
 Light mode color scheme: Rose Pine
 Light mode background contrast: Low contrast
